@@ -1,0 +1,23 @@
+h1{ 
+    color: darkblue;
+    font-size: 20px;
+}
+
+a:link{
+    color: plum;
+}
+
+p{
+    color: darkblue;
+}
+
+body{
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#grimreaper{
+    position: absolute;
+}
